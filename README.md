@@ -1,3 +1,2 @@
-# California-Housing-Data-analysis
-Machine Learning Bootcamp - California Housing Dataset
+#California-Housing-Data-analysis
 Statistical analysis of California Housing Dataset
